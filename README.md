@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<h1 align="center">Hey 👋 I'm Sameer Mahato</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;DSA+%7C+C%2B%2B+%7C+Java;Building+Cool+Projects+🚀" />
-</p>
-=======
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -25,52 +18,11 @@
 </picture>
 
 </div>
->>>>>>> 28b8c12 (✨ Add stunning 3D animated profile README)
 
 ---
 
 ## 🌌 About Me
 
-<<<<<<< HEAD
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-* 🎓 B.Tech Computer Science Student (2026 Graduate)
-* 💻 Passionate about Software Development & Problem Solving
-* 🌱 Currently learning Data Structures & Algorithms
-* 🚀 Love building clean and simple projects
-* ⚡ Always improving coding skills
-
-<br>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,html,css,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-=======
 ```javascript
 const sameer = {
   name: "Sameer Mahato",
@@ -120,18 +72,11 @@ const sameer = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
->>>>>>> 28b8c12 (✨ Add stunning 3D animated profile README)
 
 ---
 
 ## 🚀 Featured Projects
 
-<<<<<<< HEAD
-✨ Portfolio Website
-✨ DSA Practice Repository
-✨ React Mini Projects
-✨ Academic Projects
-=======
 <div align="center">
 
 | 🏆 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
@@ -177,29 +122,11 @@ const sameer = {
 [![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SameerMahato&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=a78bfa&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
->>>>>>> 28b8c12 (✨ Add stunning 3D animated profile README)
 
 ---
 
 ## 🌐 Connect With Me
 
-<<<<<<< HEAD
-<p align="center">
-<a href="https://www.linkedin.com/in/sameer3131/">LinkedIn</a> •
-
-<a href="sameermahato793@gmail.com">Email</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=58A6FF&style=flat" />
-</p>
-
----
-
-<h3 align="center">⚡ Code • Learn • Build • Repeat ⚡</h3>
-=======
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer3131/)
@@ -220,4 +147,3 @@ const sameer = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
->>>>>>> 28b8c12 (✨ Add stunning 3D animated profile README)
