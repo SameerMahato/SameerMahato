@@ -23,22 +23,16 @@
 
 ## 🌌 About Me
 
-```javascript
-const sameer = {
-  name: "Sameer Mahato",
-  role: "Full Stack Developer",
-  education: "B.Tech Computer Science (2026 Graduate)",
-  location: "India 🇮🇳",
-  currentlyLearning: ["Data Structures & Algorithms", "System Design"],
-  passions: ["Software Development", "Problem Solving", "Building Clean Projects"],
-  motto: "⚡ Code • Learn • Build • Repeat ⚡",
-  contact: {
-    linkedin: "https://www.linkedin.com/in/sameer3131/",
-    email: "sameermahato793@gmail.com",
-    github: "https://github.com/SameerMahato"
-  }
-};
-```
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 12px;"/>
+
+- 👨‍💻 **Full Stack Developer** passionate about building impactful products
+- 🎓 **B.Tech Computer Science** — Class of 2026 🇮🇳
+- 🧠 Currently sharpening **DSA & System Design** skills
+- 🚀 Love crafting clean, scalable, and user-friendly applications
+- 💡 Always learning — one commit at a time
+- 📬 Reach me at **sameermahato793@gmail.com**
+
+<br clear="right"/>
 
 ---
 
