@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sameer%20Mahato&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Problem%20Solver&descSize=18&descAlignY=62&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sameer%20Mahato&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Turning%20Ideas%20Into%20Real%20Products&descSize=18&descAlignY=62&descColor=a78bfa"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -26,10 +26,9 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 12px;"/>
 
 - 👨‍💻 **Full Stack Developer** passionate about building impactful products
-- 🎓 **B.Tech Computer Science** — Class of 2026 🇮🇳
-- 🧠 Currently sharpening **DSA & System Design** skills
+- 🎓 I’m currently pursuing B.Tech CSE From Lovely Professional University
+- 🧠 I’m currently learning DSA & Web Development
 - 🚀 Love crafting clean, scalable, and user-friendly applications
-- 💡 Always learning — one commit at a time
 - 📬 Reach me at **sameermahato793@gmail.com**
 
 <br clear="right"/>
@@ -41,46 +40,61 @@
 <div align="center">
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🏆 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|---|---|---|---|
-| 💰 **KharchaBuddy** | AI-powered Personal Finance Tracker with interactive dashboards & smart analytics | `Next.js` `TypeScript` `Node.js` `MongoDB` | [Live ↗](https://kharcha-buddy.vercel.app) |
-| 📚 **Scholarscribe** | Academic content writing & knowledge management platform | `TypeScript` `React` `Node.js` | [Live ↗](https://scholarscribe.vercel.app) |
-| 🚂 **TrainSpectra** | Train analytics and spectrum visualization system | `JavaScript` `MERN Stack` | [Repo ↗](https://github.com/SameerMahato/TrainSpectra) |
-| 📋 **Smart Attendance System** | Hybrid attendance with QR codes, geofencing & real-time tracking | `MERN Stack` `QR` `Geolocation` | [Repo ↗](https://github.com/SameerMahato/Smart-Hybrid-Attendance-System) |
-| 🌐 **Scholarscribe Website** | Full-featured academic writing platform website | `Handlebars` `Node.js` `CSS` | [Live ↗](https://scholarscribe-website.vercel.app) |
-| 🏠 **Real Estate Website** | Modern real estate listing and browsing interface | `HTML` `CSS` `JavaScript` | [Repo ↗](https://github.com/SameerMahato/Real-Estate-Website) |
+<a href="https://github.com/SameerMahato/TrainSpectra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SameerMahato&repo=TrainSpectra&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/SameerMahato/Smart-Hybrid-Attendance-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SameerMahato&repo=Smart-Hybrid-Attendance-System&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/SameerMahato/Real-Estate-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SameerMahato&repo=Real-Estate-Website&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/SameerMahato">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SameerMahato&repo=Scholarscribe&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
