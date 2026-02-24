@@ -22,17 +22,13 @@
 
 ---
 
+
 ## 🌌 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 12px;"/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/SameerMahato/SameerMahato/main/about.svg" alt="About Sameer Mahato"/>
+</div>
 
-- 👨‍💻 **Full Stack Developer** passionate about building impactful products
-- 🎓 I'm currently pursuing B.Tech CSE From Lovely Professional University
-- 🧠 I'm currently learning DSA & Web Development
-- 🚀 Love crafting clean, scalable, and user-friendly applications
-- 📬 Reach me at **sameermahato793@gmail.com**
-
-<br clear="right"/>
 
 ---
 

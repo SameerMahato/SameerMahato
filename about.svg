@@ -1,0 +1,141 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="12" flood-color="#a78bfa" flood-opacity="0.25"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Subtle BG shimmer gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#13111c"/>
+      <stop offset="100%" stop-color="#1a1730"/>
+    </linearGradient>
+    <linearGradient id="titleBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2a2440"/>
+      <stop offset="100%" stop-color="#1e1a30"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card body -->
+  <rect x="0" y="0" width="900" height="300" rx="14" fill="url(#cardBg)" filter="url(#shadow)"/>
+  <!-- Card left accent bar -->
+  <rect x="0" y="0" width="4" height="300" rx="4" fill="#a78bfa" opacity="0.8"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="900" height="44" rx="14" fill="url(#titleBar)"/>
+  <rect x="0" y="24" width="900" height="20" fill="url(#titleBar)"/>
+
+  <!-- Window dots -->
+  <circle cx="26" cy="22" r="7" fill="#ff5f57"/>
+  <circle cx="50" cy="22" r="7" fill="#febc2e"/>
+  <circle cx="74" cy="22" r="7" fill="#28c840"/>
+
+  <!-- Tab filename -->
+  <rect x="100" y="8" width="170" height="28" rx="6" fill="#1e1a30"/>
+  <text x="116" y="27" font-family="'Courier New', monospace" font-size="13" fill="#a78bfa">📄 about-sameer.js</text>
+
+  <!-- Line numbers column -->
+  <rect x="0" y="44" width="42" height="256" fill="#0f0d1a" opacity="0.6"/>
+
+  <!-- Line numbers -->
+  <text x="22" y="76"  text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#4a4466">1</text>
+  <text x="22" y="101" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#4a4466">2</text>
+  <text x="22" y="126" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#4a4466">3</text>
+  <text x="22" y="151" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#4a4466">4</text>
+  <text x="22" y="176" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#4a4466">5</text>
+  <text x="22" y="201" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#4a4466">6</text>
+  <text x="22" y="226" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#4a4466">7</text>
+  <text x="22" y="251" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#4a4466">8</text>
+  <text x="22" y="276" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#4a4466">9</text>
+
+  <!-- Current line highlight -->
+  <rect x="42" y="260" width="858" height="22" fill="#a78bfa" opacity="0.07" rx="2"/>
+
+  <!-- ── LINE 1: const developer = { ── -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.2s" fill="freeze"/>
+    <text x="58" y="76" font-family="'Courier New', monospace" font-size="14">
+      <tspan fill="#c792ea">const </tspan><tspan fill="#82aaff">developer</tspan><tspan fill="#89ddff"> = {</tspan>
+    </text>
+  </g>
+
+  <!-- ── LINE 2: name ── -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.5s" fill="freeze"/>
+    <text x="58" y="101" font-family="'Courier New', monospace" font-size="14">
+      <tspan fill="#f8f8f2">  </tspan><tspan fill="#f9c859">name</tspan><tspan fill="#89ddff">: </tspan><tspan fill="#c3e88d">"Sameer Mahato 🚀"</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+  </g>
+
+  <!-- ── LINE 3: role ── -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.8s" fill="freeze"/>
+    <text x="58" y="126" font-family="'Courier New', monospace" font-size="14">
+      <tspan fill="#f8f8f2">  </tspan><tspan fill="#f9c859">role</tspan><tspan fill="#89ddff">: </tspan><tspan fill="#c3e88d">"Full Stack Developer 👨‍💻"</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+  </g>
+
+  <!-- ── LINE 4: education ── -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.1s" fill="freeze"/>
+    <text x="58" y="151" font-family="'Courier New', monospace" font-size="14">
+      <tspan fill="#f8f8f2">  </tspan><tspan fill="#f9c859">education</tspan><tspan fill="#89ddff">: </tspan><tspan fill="#c3e88d">"B.Tech CSE @ LPU (2026) 🎓"</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+  </g>
+
+  <!-- ── LINE 5: learning ── -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.4s" fill="freeze"/>
+    <text x="58" y="176" font-family="'Courier New', monospace" font-size="14">
+      <tspan fill="#f8f8f2">  </tspan><tspan fill="#f9c859">learning</tspan><tspan fill="#89ddff">: </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#c3e88d">"DSA"</tspan><tspan fill="#f8f8f2">, </tspan><tspan fill="#c3e88d">"Web Dev"</tspan><tspan fill="#f8f8f2">, </tspan><tspan fill="#c3e88d">"Cloud"</tspan><tspan fill="#89ddff">]</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+  </g>
+
+  <!-- ── LINE 6: passion ── -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.7s" fill="freeze"/>
+    <text x="58" y="201" font-family="'Courier New', monospace" font-size="14">
+      <tspan fill="#f8f8f2">  </tspan><tspan fill="#f9c859">passion</tspan><tspan fill="#89ddff">: </tspan><tspan fill="#c3e88d">"Building impactful products ✨"</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+  </g>
+
+  <!-- ── LINE 7: contact ── -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.0s" fill="freeze"/>
+    <text x="58" y="226" font-family="'Courier New', monospace" font-size="14">
+      <tspan fill="#f8f8f2">  </tspan><tspan fill="#f9c859">contact</tspan><tspan fill="#89ddff">: </tspan><tspan fill="#c3e88d">"sameermahato793@gmail.com 📬"</tspan><tspan fill="#f8f8f2">,</tspan>
+    </text>
+  </g>
+
+  <!-- ── LINE 8: funFact ── -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.3s" fill="freeze"/>
+    <text x="58" y="251" font-family="'Courier New', monospace" font-size="14">
+      <tspan fill="#f8f8f2">  </tspan><tspan fill="#f9c859">funFact</tspan><tspan fill="#89ddff">: </tspan><tspan fill="#c3e88d">"I turn ☕ into code!"</tspan>
+    </text>
+  </g>
+
+  <!-- ── LINE 9: closing } ── -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.6s" fill="freeze"/>
+    <text x="58" y="276" font-family="'Courier New', monospace" font-size="14" fill="#89ddff">}</text>
+  </g>
+
+  <!-- Blinking cursor (appears after all lines) -->
+  <rect x="76" y="264" width="9" height="16" rx="1" fill="#a78bfa" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" dur="1s" begin="2.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom status bar -->
+  <rect x="0" y="280" width="900" height="20" rx="0" fill="#2a2440" opacity="0.9"/>
+  <rect x="0" y="280" width="900" height="20" rx="0" fill="#2a2440"/>
+  <rect x="0" y="278" width="900" height="22" rx="0" fill="#2a2440"/>
+  <rect x="0" y="278" width="900" height="22">
+    <animate attributeName="fill" values="#1e1a30;#2a2440;#1e1a30" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="14" y="292" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa">● JavaScript</text>
+  <text x="120" y="292" font-family="'Courier New', monospace" font-size="11" fill="#4a4466">  UTF-8  LF  </text>
+  <text x="820" y="292" font-family="'Courier New', monospace" font-size="11" fill="#28c840">✓ Ln 9, Col 2</text>
+</svg>
