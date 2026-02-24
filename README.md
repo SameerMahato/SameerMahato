@@ -81,23 +81,76 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/SameerMahato/KharchaBuddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SameerMahato&repo=KharchaBuddy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/SameerMahato/Scholarscribe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SameerMahato&repo=Scholarscribe&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/SameerMahato/TrainSpectra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SameerMahato&repo=TrainSpectra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/SameerMahato/Smart-Hybrid-Attendance-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SameerMahato&repo=Smart-Hybrid-Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/SameerMahato/Real-Estate-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SameerMahato&repo=Real-Estate-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💰 KharchaBuddy</h3>
+      <div align="center">
+        <a href="https://github.com/SameerMahato/KharchaBuddy"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://kharcha-buddy.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <p align="center">AI-powered Personal Finance Tracker with interactive dashboards &amp; smart analytics</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Scholarscribe</h3>
+      <div align="center">
+        <a href="https://github.com/SameerMahato/Scholarscribe"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://scholarscribe.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+      <p align="center">Academic content writing &amp; knowledge management platform</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚂 TrainSpectra</h3>
+      <div align="center">
+        <a href="https://github.com/SameerMahato/TrainSpectra"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+      <p align="center">Train analytics and spectrum visualization system built with the MERN stack</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 Smart Attendance System</h3>
+      <div align="center">
+        <a href="https://github.com/SameerMahato/Smart-Hybrid-Attendance-System"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+      <p align="center">Hybrid attendance with QR codes, geofencing &amp; real-time tracking</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3 align="center">🏠 Real Estate Website</h3>
+      <div align="center">
+        <a href="https://github.com/SameerMahato/Real-Estate-Website"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p align="center">Modern real estate listing and browsing interface</p>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
