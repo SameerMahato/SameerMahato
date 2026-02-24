@@ -159,8 +159,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerMahato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerMahato&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff"/>
+![Followers](https://img.shields.io/github/followers/SameerMahato?style=for-the-badge&logo=github&logoColor=white&color=a78bfa&labelColor=0D1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/SameerMahato?style=for-the-badge&logo=github&logoColor=white&color=a78bfa&labelColor=0D1117&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SameerMahato&query=public_repos&style=for-the-badge&logo=github&logoColor=white&color=a78bfa&labelColor=0D1117&label=Public%20Repos)
 
 </div>
 
@@ -170,11 +171,7 @@
 
 </div>
 
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SameerMahato&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
