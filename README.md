@@ -33,12 +33,12 @@ const sameer = {
   passions: ["Software Development", "Problem Solving", "Building Clean Projects"],
   motto: "⚡ Code • Learn • Build • Repeat ⚡",
   contact: {
-    linkedin: "https://www.linkedin.com/in/sameer3131/",
+    linkedin: "[https://www.linkedin.com/in/sameer3131/](https://www.linkedin.com/in/sameer3131/)",
     email: "sameermahato793@gmail.com",
-    github: "https://github.com/SameerMahato"
+    github: "[https://github.com/SameerMahato](https://github.com/SameerMahato)"
   }
 };
-```
+` ` `
 
 ---
 
@@ -143,7 +143,6 @@ const sameer = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SameerMahato&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
