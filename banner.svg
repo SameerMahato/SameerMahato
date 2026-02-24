@@ -1,0 +1,129 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Animated gradient 1: purple → blue -->
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Animated gradient 2: blue → cyan -->
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Animated gradient 3: pink → purple -->
+    <radialGradient id="orb3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#9333ea" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Animated gradient 4: indigo -->
+    <radialGradient id="orb4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#4f46e5" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Base background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#1a1040"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <!-- Text glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bgGrad)" rx="0"/>
+
+  <!-- Orb 1: large purple, floats top-left to center -->
+  <ellipse cx="150" cy="80" rx="180" ry="140" fill="url(#orb1)">
+    <animate attributeName="cx" values="150;320;180;150" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="80;110;60;80" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="180;220;160;180" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.6;0.8" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Orb 2: blue, floats right -->
+  <ellipse cx="750" cy="130" rx="200" ry="150" fill="url(#orb2)">
+    <animate attributeName="cx" values="750;600;780;750" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="130;90;150;130" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="200;170;220;200" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.9;0.5;0.7" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Orb 3: pink, floats bottom center -->
+  <ellipse cx="450" cy="190" rx="160" ry="100" fill="url(#orb3)">
+    <animate attributeName="cx" values="450;380;520;450" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="190;160;200;190" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="100;130;80;100" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.8;0.4;0.6" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Orb 4: indigo, top right -->
+  <ellipse cx="820" cy="30" rx="130" ry="100" fill="url(#orb4)">
+    <animate attributeName="cx" values="820;700;850;820" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="30;70;20;30" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.5;0.9;0.7" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Floating particles: small glowing dots -->
+  <circle cx="80" cy="40" r="2.5" fill="#a78bfa" opacity="0.9">
+    <animate attributeName="cy" values="40;25;40" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="160" r="2" fill="#60a5fa" opacity="0.8">
+    <animate attributeName="cy" values="160;140;160" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="30" r="3" fill="#f472b6" opacity="0.8">
+    <animate attributeName="cy" values="30;15;30" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="50" r="2" fill="#818cf8" opacity="0.9">
+    <animate attributeName="cy" values="50;35;50" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="720" cy="170" r="2.5" fill="#a78bfa" opacity="0.7">
+    <animate attributeName="cy" values="170;150;170" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="860" cy="100" r="2" fill="#60a5fa" opacity="0.8">
+    <animate attributeName="cx" values="860;850;860" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="200" r="2" fill="#f472b6" opacity="0.7">
+    <animate attributeName="cy" values="200;185;200" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.1;0.7" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="530" cy="195" r="3" fill="#818cf8" opacity="0.6">
+    <animate attributeName="cy" values="195;175;195" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Wave bottom shape -->
+  <path d="M0,185 C150,155 300,215 450,185 C600,155 750,210 900,185 L900,220 L0,220 Z" fill="#0d1117" opacity="0.9"/>
+  <path d="M0,200 C200,175 400,215 600,195 C750,180 850,210 900,200 L900,220 L0,220 Z" fill="#0d1117"/>
+
+  <!-- Main Title -->
+  <text x="450" y="105" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="800" fill="white" filter="url(#glow)" letter-spacing="1">
+    Sameer Mahato
+    <animate attributeName="opacity" values="0;1;1" dur="1.5s" repeatCount="1" fill="freeze"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="145" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="400" fill="#a78bfa" filter="url(#softglow)" letter-spacing="1">
+    Full Stack Developer  |  Turning Ideas Into Real Products
+    <animate attributeName="opacity" values="0;0;1" dur="2s" repeatCount="1" fill="freeze"/>
+  </text>
+</svg>

@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sameer%20Mahato&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Turning%20Ideas%20Into%20Real%20Products&descSize=18&descAlignY=62&descColor=a78bfa"/>
+<!-- Animated 3D Color Banner -->
+<img width="100%" src="https://raw.githubusercontent.com/SameerMahato/SameerMahato/main/banner.svg" alt="Sameer Mahato - Full Stack Developer"/>
+
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
